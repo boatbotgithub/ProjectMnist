@@ -1,2 +1,2 @@
 # ProjectMnist
-เป็นโปรเจคพื้นฐานในการทำ Classification ข้อมูล Mnist Dataset
+เป็นโปรเจคพื้นฐานในการใช้ CNN ทำ Classification ข้อมูล Mnist Dataset
